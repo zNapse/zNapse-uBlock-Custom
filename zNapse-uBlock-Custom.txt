@@ -500,11 +500,77 @@ lookmovie.io##.plr-help-stripe
 pornvid69.com##a.ref-links
 pornvid69.com##.simplefavorite-button
 
+
 ! 2021-03-20 https://m.youtube.com
 m.youtube.com##ytm-clarification-renderer.item
-
 
 ! 2021-03-21 https://lookmovie.io
 lookmovie.io##.menu-right.flex-child-menu.navbar-nav.nav
 lookmovie.io##.ht-footer
 lookmovie.io##.loginLink.user-prem-mobile
+
+! 2021-03-21 https://www.xnxx.com
+www.xnxx.com##.mobile-hide.btn.bookmark-link
+www.xnxx.com##.gold-plate
+www.xnxx.com##li:nth-of-type(10) > [href="https://games.xnxx.com"]
+www.xnxx.com##.live-cams
+www.xnxx.com###footer
+www.xnxx.com##li:nth-of-type(11) > [href="https://games.xnxx.com"]
+www.xnxx.com##.help-wizard-focus
+www.xnxx.com##.active.metadata-btn
+www.xnxx.com##a.metadata-btn:nth-of-type(4)
+www.xnxx.com##.slogan
+www.xnxx.com##a.metadata-btn:nth-of-type(3)
+www.xnxx.com##.video-title
+www.xnxx.com##.noselect.videoad-title-invideo.videoad-title
+www.xnxx.com###header-mobile-live-cam
+www.xnxx.com###content-ad-top-zone-contener
+www.xnxx.com###speed
+www.xnxx.com###loop
+www.xnxx.com###advanced
+
+! 2021-03-21 https://pornve.com
+pornve.com##td:nth-of-type(3)
+pornve.com##.navbar
+pornve.com###footer
+pornve.com##button:nth-of-type(3)
+pornve.com##button:nth-of-type(4)
+pornve.com##button:nth-of-type(2)
+
+! 2021-03-21 https://www.fuq.com
+www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(3)
+www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(2)
+www.fuq.com###footer
+
+! 2021-03-21 https://xhamster.com
+xhamster.com##.controls > .report-control
+xhamster.com##.share-control.gray.xh-button
+xhamster.com##.popup.positioned.favorites-control
+xhamster.com##.my-comment
+xhamster.com##.overlay-open-share
+xhamster.com##.xplayer-hover-menu
+xhamster.com##.delay.collapse-dropdown.xh-dropdown.more-nav.nav-item
+xhamster.com##li.displayed-nav-item.nav-item:nth-of-type(7)
+xhamster.com##li.displayed-nav-item.nav-item:nth-of-type(8)
+xhamster.com##.displayed-nav-item.pop-menu-photo.delay.has-child.xh-dropdown.photo-nav.nav-item
+xhamster.com##.displayed-nav-item.pop-menu-live.delay.has-child.xh-dropdown.live-nav.nav-item
+xhamster.com##.delay.popup.xh-dropdown.upload-section-menu.upload-nav
+xhamster.com##.login-section
+xhamster.com##.gay-new.orientation-name
+xhamster.com##.dropdown.dropdown-body > li > .item:has-text(Trans)
+xhamster.com##[href^="https://xhamster.com/premium/out"]
+xhamster.com##.livesex
+xhamster.com##.menu_upper
+xhamster.com##.orient
+xhamster.com##.no-transform
+xhamster.com##.wio-vspl-text.info_text
+xhamster.com##.favorites-control
+xhamster.com##.video_info
+xhamster.com##footer
+
+! 2021-03-21 https://xjavsub.com
+xjavsub.com##.happy-inside-player
+xjavsub.com##.video-infos-right
+xjavsub.com##.right > strong
+xjavsub.com##.footer-menu-container
+
