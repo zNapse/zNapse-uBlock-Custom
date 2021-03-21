@@ -502,3 +502,9 @@ pornvid69.com##.simplefavorite-button
 
 ! 2021-03-20 https://m.youtube.com
 m.youtube.com##ytm-clarification-renderer.item
+
+
+! 2021-03-21 https://lookmovie.io
+lookmovie.io##.menu-right.flex-child-menu.navbar-nav.nav
+lookmovie.io##.ht-footer
+lookmovie.io##.loginLink.user-prem-mobile
