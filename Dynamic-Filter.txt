@@ -5,8 +5,6 @@
 ! Expires: 
 ! Homepage:
 !
-
-
 no-csp-reports: * true
 no-large-media: behind-the-scene false
 * 1clickcdn.ru * block
@@ -36,6 +34,9 @@ behind-the-scene * inline-script noop
 www.facebook.com facebook.com * noop
 www.facebook.com www.facebook.com * noop
 www.facebook.com fbcdn.net * noop
+www.fuq.com * 3p-frame block
+www.fuq.com * 3p-script block
+www.fuq.com google-analytics.com * block
 accounts.google.com google.com * noop
 accounts.google.com accounts.google.com * noop
 accounts.google.com gstatic.com * noop
@@ -152,6 +153,13 @@ odqw5a5fl56hafktc6zhwsaeeu-adwhj77lcyoafdy-xporno-name.translate.goog xksqb.com 
 odqw5a5fl56hafktc6zhwsaeeu-adwhj77lcyoafdy-xporno-name.translate.goog xporno.name * noop
 playxporn.com yadro.ru * block
 playxporn.com yandex.ru * block
+pornve.com * 3p-frame block
+pornve.com * 3p-script block
+pornve.com doublepimp.com * block
+pornve.com exosrv.com * block
+pornve.com fluidplayer.com * noop
+pornve.com cds.m7s4v7n6.hwcdn.net * noop
+pornve.com wilafhhbdyewgbd.xyz * block
 pornvid69.com * 3p-frame block
 pornvid69.com * 3p-script block
 pornvid69.com blockadsnot.com * block
@@ -178,6 +186,17 @@ thelordofporn.com * 3p-script block
 thelordofporn.com google-analytics.com * block
 thelordofporn.com google.com * block
 thelordofporn.com gravatar.com * block
+xhamster.com * 3p-frame block
+xhamster.com * 3p-script block
+xhamster.com ahcdn.com * noop
+xhamster.com cdn13.com * block
+xhamster.com fpbns.net * noop
+xhamster.com hpyrdr.com * block
+xhamster.com xhamster.com * noop
+xhamster.com xhcdn.com * noop
+www.xnxx.com gstatic.com * block
+www.xnxx.com realsrv.com * block
+www.xnxx.com trafficfactory.biz * block
 www.youtube.com * 3p-frame block
 www.youtube.com * 3p-script block
 www.youtube.com google.com * noop
