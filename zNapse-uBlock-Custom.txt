@@ -6,68 +6,68 @@
 ! Homepage:
 !
 
-! 2021-02-13 https://www.youtube.com
+! https://www.youtube.com
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1) 
 
-! 2021-02-13 https://www.searchenginejournal.com
+! https://www.searchenginejournal.com
 www.searchenginejournal.com##.sej-hello-bar 
 
-! 2021-03-13 https://www.actvid.com
+! https://www.actvid.com
 ||i.imgur.com/FRXqJCI.jpg$image 
 
-! 2021-03-13 https://czechvideo.org
+! https://czechvideo.org
 czechvideo.org##.copyright 
 
-! 2021-03-13 https://www.youtube.com
+! https://www.youtube.com
 ||www.youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTlpWbFUyY2sxdlpHeEhlSFpLWW5ONlEyTnNSMGQzRWdzNFVuaHdUVTh6TVMxVE5Cb1Q2cWpkdVFFTkNnczRVbmh3VFU4ek1TMVROQ0FCQAFyAggEeAE%253D$subdocument
 www.youtube.com###chat 
 youtube.com##ytd-rich-section-renderer:has(#title:has-text(/^COVID-19 news$/))
 
-! 2021-03-14 https://www.actvid.com
+! https://www.actvid.com
 www.actvid.com##.mb-3.alert
 www.actvid.com###footer
 www.actvid.com##.modal-content 
 
-! 2021-03-14 https://real-123movies.best
+! https://real-123movies.best
 ||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
 ||real-123movies.best/addons/sdahsdahydfs7asds.gif$image 
 
-! 2021-03-14 https://www.sxyprn.net
+! https://www.sxyprn.net
 www.sxyprn.net##.sharing_toolbox 
 
-! 2021-03-14 https://noodlemagazine.com
+! https://noodlemagazine.com
 noodlemagazine.com##.sharing 
 
-! 2021-03-14 https://pornzog.com
+! https://pornzog.com
 pornzog.com##.video-ntv > .no-margin.block-title > .title-line
 ||cftn.pornhits.com/media/tn/70405_1.jpg$image
 pornzog.com##.video-ntv-list
 pornzog.com##.adv-block-container > .wrapper > .no-margin.block-title
 pornzog.com##.adv-block-container 
 
-! 2021-03-14 https://milfnut.com
+! https://milfnut.com
 milfnut.com##.site-footer 
 
-! 2021-03-14 https://www.playvids.com
+! https://www.playvids.com
 www.playvids.com##.card-promotion.card-deck
 
-! 2021-03-14 https://www.erome.com
+! https://www.erome.com
 www.erome.com##.free-space 
 
-! 2021-03-14 https://daftsex.com
+! https://daftsex.com
 daftsex.com###addthis_sharing_toolbox
 ||daftsex.com/img/twitter.png$image
 ||daftsex.com/img/twitter.png$image
 
-! 2021-03-14 https://start.me
+! https://start.me
 start.me##.info-message
 start.me##.page-footer__container
 
-! 2021-03-14 https://www.trendyporn.com
+! https://www.trendyporn.com
 www.trendyporn.com##.container > .pull-left
 www.trendyporn.com##.footer
 
-! 2021-03-15 https://czechvideo.org
+! https://czechvideo.org
 ||www.xxxc2c.org/in/?track=default&tour=x1Rd&campaign=T0owj&c=4&p=0&gender=x&tag=teen&disable_sound=True$subdocument
 ||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=brunette$subdocument
 ||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
@@ -75,28 +75,28 @@ czechvideo.org##.share42init
 ||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
 ||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=couple$subdocument
 
-! 2021-03-15 https://www.playvids.com
+! https://www.playvids.com
 www.playvids.com##.col-lg-6.col-xl-4
 
-! 2021-03-15 https://start.me
+! https://start.me
 start.me##.widget-page__banner.special
 start.me##.page-footer
 
-! 2021-03-15 https://spankbang.com
+! https://spankbang.com
 spankbang.com##.lv_cm_cl_mx_why
 
-! 2021-03-15 https://www.linkedin.com
+! https://www.linkedin.com
 www.linkedin.com##.align-items-center.display-flex.jobs-details-top-card--left-offset
 www.linkedin.com##.premium-upsell-link--extra-long.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state.app-aware-link
 
-! 2021-03-15 https://superuser.com
+! https://superuser.com
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 superuser.com##.js-dismissable-hero.ps-relative.sm\:pb24.sm\:pt24.fc-black-200.bg-black-750.py24
 
-! 2021-03-15 https://1337x.to
+! https://1337x.to
 1337x.to##.top-bar
 
-! 2021-03-15 https://www.pornwhite.com
+! https://www.pornwhite.com
 www.pornwhite.com##li.drop:nth-of-type(4)
 www.pornwhite.com##li:nth-of-type(8)
 www.pornwhite.com##li:nth-of-type(7)
@@ -108,7 +108,7 @@ www.pornwhite.com##.long.video-options
 www.pornwhite.com##.container > .heading
 www.pornwhite.com##.bottom-banners
 
-! 2021-03-15 https://www.sxyprn.net
+! https://www.sxyprn.net
 www.sxyprn.net##.comment_ta_wrap
 www.sxyprn.net##.account_bar > .transition.acc_char
 www.sxyprn.net##.account_bar
@@ -116,7 +116,7 @@ www.sxyprn.net##.comment_user_photo_main > span
 www.sxyprn.net##.cont_support
 www.sxyprn.net##.cont_abuse
 
-! 2021-03-15 https://www.porntrex.com
+! https://www.porntrex.com
 www.porntrex.com##li.hidden-sm > .hidden-sm
 www.porntrex.com##[href="https://vo2.qrlsx.com/8d9c8d92-c5ad-4cb7-bb91-07e2503b7e1a"]
 www.porntrex.com##[href="https://vo2.qrlsx.com/c7e4f393-27ae-41a1-b39e-b12ebd70798e"]
@@ -128,7 +128,7 @@ www.porntrex.com##.navbar-right.navbar-nav.nav .orientation-section > .dropdown 
 www.porntrex.com##.copyright-txt-block
 www.porntrex.com##.video-info > .tab-content
 
-! 2021-03-15 https://javladies.com
+! https://javladies.com
 javladies.com###text-5 > .widget-inner
 javladies.com###text-12 > .widget-inner
 javladies.com##.cactus-sidebar.footer-sidebar
@@ -137,10 +137,10 @@ javladies.com##.like-group
 javladies.com###mega-menu-item-12464 > [href^="https://new-real-dating12.com/"]
 javladies.com###mega-menu-item-1787 > .cactus-hasIcon
 
-! 2021-03-15 https://xjavsub.com
+! https://xjavsub.com
 xjavsub.com##.site-info
 
-! 2021-03-15 https://javsub.co
+! https://javsub.co
 javsub.co##[href="https://javsub.co/dmca/"]
 javsub.co##.site-footer
 javsub.co##.happy-footer
@@ -148,7 +148,7 @@ javsub.co##.video-share
 javsub.co##.video-actions
 javsub.co##.blue-colorscheme.wprc-container
 
-! 2021-03-15 https://www.erome.com
+! https://www.erome.com
 www.erome.com##div.sp:nth-of-type(1)
 www.erome.com##.sign-in.dropdown.hidden-tn.hidden-xxs.hidden-xs.hidden-sm > .dropdown-toggle
 www.erome.com##div.hidden-tn.hidden-xxs.hidden-xs.sp:nth-of-type(4)
@@ -166,12 +166,12 @@ www.erome.com###album-xi4W8qB9
 www.erome.com##.hidden-lg.hidden-md.hidden-sm.sp-mob
 www.erome.com##.collapsed.navbar-toggle
 
-! 2021-03-15 https://www.porngo.com
+! https://www.porngo.com
 www.porngo.com##.footer > .container
 www.porngo.com##.spot_link.nav-menu__link
 www.porngo.com##.menu-list__title_upload.menu-list__title
 
-! 2021-03-15 https://pornvid69.com
+! https://pornvid69.com
 pornvid69.com###menu-item-10651 > .nav-link
 pornvid69.com###menu-item-10654 > .nav-link
 pornvid69.com##.membership
@@ -181,7 +181,7 @@ pornvid69.com##.share.tab-link
 pornvid69.com##.video-comments
 pornvid69.com##div.video-wrapper:nth-of-type(3)
 
-! 2021-03-15 https://www.actvid.com
+! https://www.actvid.com
 www.actvid.com##.btn-login.btn-on-header.btn-sm.btn
 www.actvid.com###pc-fav
 www.actvid.com##.text-center.server-notice
@@ -189,7 +189,7 @@ www.actvid.com###block-rating > .clearfix
 www.actvid.com##.float-left.btn-sm.btn-light.btn
 www.actvid.com##.float-right.btn-sm.btn-light.btn
 
-! 2021-03-15 https://real-123movies.best
+! https://real-123movies.best
 ||real-123movies.best/dist/image/header/login.jpg$image
 real-123movies.best##._hIWqBErhjP
 real-123movies.best##._OAKUXllBJi > a
@@ -213,7 +213,7 @@ real-123movies.best##._vDtzguqMeJ
 real-123movies.best##._FbQADRKPEN
 real-123movies.best##.sadhjasdjkASDd
 
-! 2021-03-15 https://gogoanime.ai
+! https://gogoanime.ai
 ||gogoanime.ai/img/bg/vien_footer.png$image
 gogoanime.ai##footer
 gogoanime.ai##.notice-400
@@ -223,7 +223,7 @@ gogoanime.ai##.report-ajax
 gogoanime.ai##.list_dowload > div
 gogoanime.ai##.menu_top > ul > .user
 
-! 2021-03-15 https://www5.gowatchseries.bz
+! https://www5.gowatchseries.bz
 www5.gowatchseries.bz##.socil_pluin > ul
 www5.gowatchseries.bz##.footer
 www5.gowatchseries.bz##.notice
@@ -236,7 +236,7 @@ www5.gowatchseries.bz##div.left:nth-of-type(5)
 www5.gowatchseries.bz##.disqus-comment-count.specialButton
 www5.gowatchseries.bz###scroll-top-arrow
 
-! 2021-03-15 https://bestzzporno.com
+! https://bestzzporno.com
 bestzzporno.com##.clearfix.footer
 bestzzporno.com##.desc-text
 bestzzporno.com##table
@@ -248,7 +248,7 @@ bestzzporno.com##.nowrap.btn-guest.meta-fav.meta-item
 bestzzporno.com##.btn-login
 bestzzporno.com##.btn-guest.btn-fav
 
-! 2021-03-15 https://speedporn.net
+! https://speedporn.net
 speedporn.net##.video-sidebar.col-md-3.col-12
 speedporn.net##.media
 speedporn.net###fpcInPagePush
@@ -260,7 +260,7 @@ speedporn.net##.hero
 speedporn.net##.share.tab-link
 speedporn.net##.video-actions-header > .no-gutters.row > .col-md-3.col-12
 
-! 2021-03-15 https://www.youjizz.com
+! https://www.youjizz.com
 www.youjizz.com##.col-padding-right.col-md-9
 www.youjizz.com##.dropdown-toggle
 www.youjizz.com##.text-center.copyright
@@ -268,7 +268,7 @@ www.youjizz.com###desktopNtvAPr
 www.youjizz.com###desktopNtvBPr
 www.youjizz.com##.download-wrapper.info-btn
 
-! 2021-03-15 https://suj.nu
+! https://suj.nu
 suj.nu##div.my-10.row:nth-of-type(1)
 suj.nu##[href="https://suj.nu/en/users/login"]
 suj.nu##[href="en/users/registration"]
@@ -277,7 +277,7 @@ suj.nu##.footer
 suj.nu##.ads-foot
 suj.nu##.page-header_fav
 
-! 2021-03-15 https://xfantazy.com
+! https://xfantazy.com
 xfantazy.com###fluid-videoplayer_fluid_control_playback_rate
 xfantazy.com##.jss569
 xfantazy.com##.jss573.MuiButton-text.MuiButton-root.MuiButtonBase-root
@@ -293,14 +293,14 @@ xfantazy.com##.jss1232
 xfantazy.com##.jss1239
 xfantazy.com##.jss1284.MuiButton-text.MuiButton-root.MuiButtonBase-root
 
-! 2021-03-15 https://porndish.org
+! https://porndish.org
 porndish.org##.happy-footer
 porndish.org##.footer-widget-zone
 porndish.org##.site-footer
 porndish.org##.show.button
 porndish.org##.main-navigation
 
-! 2021-03-15 https://anon-v.com
+! https://anon-v.com
 anon-v.com##.top-links
 anon-v.com##.drop.highlight
 anon-v.com##li:nth-of-type(7)
@@ -311,7 +311,7 @@ anon-v.com##li:nth-of-type(4)
 anon-v.com##li:nth-of-type(5)
 anon-v.com##li:nth-of-type(2)
 
-! 2021-03-15 https://hanime.tv
+! https://hanime.tv
 hanime.tv###add_to_playlist_btn
 hanime.tv##.user_comments__post
 hanime.tv##.site-description
@@ -327,7 +327,7 @@ hanime.tv##.mt-2.column.flex.action-bar.native_1.mobile.htvnad1
 hanime.tv##.active.mobile.htvad.mt-5.mb-5
 hanime.tv##.footer
 
-! 2021-03-15 https://muchohentai.com
+! https://muchohentai.com
 muchohentai.com###header-actions
 muchohentai.com###custom_html-11
 muchohentai.com###custom_html-7
@@ -348,7 +348,7 @@ muchohentai.com###__eq2281___
 muchohentai.com###__eq2283___
 muchohentai.com##[src="https://cupmedia.fun/wp-content/uploads/2020/12/15.png"]
 
-! 2021-03-15 https://hentaihaven.xxx
+! https://hentaihaven.xxx
 hentaihaven.xxx##.with-border.c-sub-header-nav
 hentaihaven.xxx##.pt-2
 hentaihaven.xxx##div.vraven_expand:nth-of-type(3)
@@ -357,7 +357,7 @@ hentaihaven.xxx###disqus_thread
 hentaihaven.xxx##.main-col-inner > .vraven_read.font-heading.style-2.c-blog__heading
 hentaihaven.xxx##.bottom.player_logic_opt_c
 
-! 2021-03-15 https://hentaiworld.tv
+! https://hentaiworld.tv
 hentaiworld.tv###prime_nav > .menu-item-9052.menu-item-object-custom.menu-item-type-custom.menu-item
 hentaiworld.tv###prime_nav > .menu-item-6932.menu-item-object-page.menu-item-type-post_type.menu-item
 hentaiworld.tv###prime_nav > li > [href="https://theporndude.com/"]
@@ -370,17 +370,17 @@ hentaiworld.tv###mobile-nav > li > [href="https://theporndude.com/"]
 hentaiworld.tv###mobile-nav > .menu-item-9052.menu-item-object-custom.menu-item-type-custom.menu-item
 hentaiworld.tv###mobile-nav > .menu-item-6932.menu-item-object-page.menu-item-type-post_type.menu-item
 
-! 2021-03-15 https://hentaiyes.com
+! https://hentaiyes.com
 hentaiyes.com##.show-for-large.topBar
 hentaiyes.com##.social-share
 
-! 2021-03-15 https://hentaihaven.co
+! https://hentaihaven.co
 hentaihaven.co###sidebar > .clearfix
 hentaihaven.co##.menu-footer
 hentaihaven.co###disqus_thread
 hentaihaven.co##.navigate-trough-posts
 
-! 2021-03-15 https://spankbang.com
+! https://spankbang.com
 spankbang.com##.auth.bt_signin
 spankbang.com##.auth.bt_signup
 spankbang.com##.ls > [href="#"]
@@ -400,59 +400,59 @@ spankbang.com##.fv
 spankbang.com##.user > a[href="#"]
 spankbang.com##[href="https://deliver.ptgncdn.com/zsrmNJZxOqnxefBDp5QJWNislRdnR0X6H_9LU8RGUazIPP2MzgDnWBIuGIz1_FAi_N19nFqyk"]
 
-! 2021-03-16 https://ca.indeed.com
+! https://ca.indeed.com
 ca.indeed.com###auxCol
 
-! 2021-03-16 https://linkedin.com
+! https://linkedin.com
 www.linkedin.com##.feed-shared-update-v2:has( > div > div.feed-shared-actor > a.feed-shared-actor__container-link > div.feed-shared-actor__meta > span.feed-shared-actor__sub-description:has-text(Promoted))
 www.linkedin.com##.ember-view.feed-shared-feed-discovery-grid.feed-shared-update-v2__content
 
-! 2021-03-16 https://hanime.tv
+! https://hanime.tv
 hanime.tv##+js(set, Cookies.get, trueFunc)
 
-! 2021-03-16 https://www.youtube.com
+! https://www.youtube.com
 www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Learn about vaccine progress from Health Canada)
 www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
 
-! 2021-03-17 https://www.linkedin.com
+! https://www.linkedin.com
 www.linkedin.com##.artdeco-toasts_toasts
 www.linkedin.com###ember327
 www.linkedin.com##.jobs-list-feedback
 
-! 2021-03-17 https://ca.indeed.com
+! https://ca.indeed.com
 ca.indeed.com##.icl-Card--hasBorder.icl-Card
 
-! 2021-03-17 https://glassdoor.com
+! https://glassdoor.com
 ||glassdoor.com^*/gd-user-hardsell-overlay.
 
-! 2021-03-17 mailtrack.io
+! mailtrack.io
 ||mailtrack.io^
 
-! 2021-03-17 Purge all UTM tracker
+! Purge all UTM tracker
 utm_$queryprune=/^utm_/
 
-! 2021-03-18 https://old.reddit.com
+! https://old.reddit.com
 old.reddit.com##.premium-banner-outer
 old.reddit.com##.listingsignupbar.infobar
 
-! Import from Mobile on 19/03/2021
+! Reddit div
 reddit.com##div[data-survey=true]
 
-! 2021-03-19 https://www.reddit.com
+! https://www.reddit.com
 www.reddit.com###t3_l4jt55 > .Post__link
 www.reddit.com###t3_l4jt55
 www.reddit.com###t3_kxlyfr
 
-! 2021-03-18 https://lookmovie.io
+! https://lookmovie.io
 lookmovie.io##.openform.overlay
 
-! 2021-03-18 https://fullporner.com
+! https://fullporner.com
 fullporner.com##div.ad-inline-box.col-md-12
 fullporner.com##.col-md-12
 fullporner.com##.floatads-mobile > .close
 
-! 2021-03-18 https://pornobomba.club
+! https://pornobomba.club
 pornobomba.club##.bmi0EVb-bounce-down.sticker_container > div
 pornobomba.club##main > .categories-keywords.keywords-holder
 pornobomba.club##table
@@ -460,56 +460,56 @@ pornobomba.club##footer
 pornobomba.club##footer
 pornobomba.club##footer
 
-! 2021-03-18 https://xporno.name
+! https://xporno.name
 xporno.name###ec653e6b03
 xporno.name##.spot
 xporno.name##.footer
 xporno.name##.bmaHxDX-bounce-down.sticker_container
 xporno.name##.empty-search__title
 
-! 2021-03-19 https://odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog
+! https://odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog
 odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog##.block-size
 odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog##.tabs-menu > ul > li:nth-of-type(3)
 odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog##.btn-favourites
 odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog##.hide-on-mobile
 odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog##.header__column_login.header__column
 
-! 2021-03-20 https://playxporn.com
+! https://playxporn.com
 playxporn.com##.happy-header-mobile
 playxporn.com##.textwidget
 playxporn.com##.homepage-description
 playxporn.com##.homepage-title
 playxporn.com##.sidebar-ads
 
-! 2021-03-20 https://hitbdsm.com
+! https://hitbdsm.com
 hitbdsm.com##.happy-header-mobile
 hitbdsm.com###video-share
 hitbdsm.com###sidebar > .widget_custom_html.widget.widget_text
 
-! 2021-03-20 https://www.linkedin.com
+! https://www.linkedin.com
 www.linkedin.com##.full-width.feed-card:has-text(Promoted)
 
-! 2021-03-19 https://streamtape.com
+! https://streamtape.com
 streamtape.com##.navbar-nav
 
-! 2021-03-20 https://lookmovie.io
+! https://lookmovie.io
 lookmovie.io##.rp-component-wrapper
 lookmovie.io##.plr-help-stripe
 
-! 2021-03-20 https://pornvid69.com
+! https://pornvid69.com
 pornvid69.com##a.ref-links
 pornvid69.com##.simplefavorite-button
 
 
-! 2021-03-20 https://m.youtube.com
+! https://m.youtube.com
 m.youtube.com##ytm-clarification-renderer.item
 
-! 2021-03-21 https://lookmovie.io
+! https://lookmovie.io
 lookmovie.io##.menu-right.flex-child-menu.navbar-nav.nav
 lookmovie.io##.ht-footer
 lookmovie.io##.loginLink.user-prem-mobile
 
-! 2021-03-21 https://www.xnxx.com
+! https://www.xnxx.com
 www.xnxx.com##.mobile-hide.btn.bookmark-link
 www.xnxx.com##.gold-plate
 www.xnxx.com##li:nth-of-type(10) > [href="https://games.xnxx.com"]
@@ -529,7 +529,7 @@ www.xnxx.com###speed
 www.xnxx.com###loop
 www.xnxx.com###advanced
 
-! 2021-03-21 https://pornve.com
+! https://pornve.com
 pornve.com##td:nth-of-type(3)
 pornve.com##.navbar
 pornve.com###footer
@@ -537,12 +537,12 @@ pornve.com##button:nth-of-type(3)
 pornve.com##button:nth-of-type(4)
 pornve.com##button:nth-of-type(2)
 
-! 2021-03-21 https://www.fuq.com
+! https://www.fuq.com
 www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(3)
 www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(2)
 www.fuq.com###footer
 
-! 2021-03-21 https://xhamster.com
+! https://xhamster.com
 xhamster.com##.controls > .report-control
 xhamster.com##.share-control.gray.xh-button
 xhamster.com##.popup.positioned.favorites-control
@@ -568,7 +568,7 @@ xhamster.com##.favorites-control
 xhamster.com##.video_info
 xhamster.com##footer
 
-! 2021-03-21 https://xjavsub.com
+! https://xjavsub.com
 xjavsub.com##.happy-inside-player
 xjavsub.com##.video-infos-right
 xjavsub.com##.right > strong
