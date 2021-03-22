@@ -2,7 +2,7 @@
 ! Version:1.34
 ! Title:
 ! Last modified:
-! Expires: 1 hours
+! Expires: 1 hour
 ! Homepage:
 !
 !【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】!
