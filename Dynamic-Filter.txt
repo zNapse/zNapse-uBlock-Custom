@@ -5,7 +5,7 @@
 ! Expires: 
 ! Homepage:
 !
-no-csp-reports: * true
+
 no-large-media: behind-the-scene false
 * 1clickcdn.ru * block
 * addthis.com * block
@@ -179,6 +179,12 @@ pornvid69.com tsyndicate.com * block
 pornvid69.com vjkjjhbi.com * block
 pornvid69.com vk.com * block
 pornvid69.com yandex.ru * block
+www.producthunt.com * 3p-frame block
+www.producthunt.com * 3p-script block
+www.producthunt.com ggpht.com * block
+www.producthunt.com google.com * block
+www.producthunt.com gstatic.com * block
+www.producthunt.com youtube-nocookie.com * block
 real-123movies.best * 3p-frame block
 real-123movies.best * 3p-script block
 thelordofporn.com * 3p-frame block
