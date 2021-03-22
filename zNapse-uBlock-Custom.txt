@@ -5,116 +5,90 @@
 ! Expires: 
 ! Homepage:
 !
-
 ! https://www.youtube.com
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1) 
+||www.youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTlpWbFUyY2sxdlpHeEhlSFpLWW5ONlEyTnNSMGQzRWdzNFVuaHdUVTh6TVMxVE5Cb1Q2cWpkdVFFTkNnczRVbmh3VFU4ek1TMVROQ0FCQAFyAggEeAE%253D$subdocument
+www.youtube.com###chat 
+youtube.com##ytd-rich-section-renderer:has(#title:has-text(/^COVID-19 news$/))
+www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Learn about vaccine progress from Health Canada)
+www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
+m.youtube.com##ytm-clarification-renderer.item
+
+! https://xjavsub.com
+xjavsub.com##.happy-inside-player
+xjavsub.com##.video-infos-right
+xjavsub.com##.right > strong
+xjavsub.com##.footer-menu-container
+xjavsub.com##.site-info
+
+! https://javsub.co
+javsub.co##[href="https://javsub.co/dmca/"]
+javsub.co##.site-footer
+javsub.co##.happy-footer
+javsub.co##.video-share
+javsub.co##.video-actions
+javsub.co##.blue-colorscheme.wprc-container
+
+! https://javladies.com
+javladies.com###text-5 > .widget-inner
+javladies.com###text-12 > .widget-inner
+javladies.com##.cactus-sidebar.footer-sidebar
+javladies.com##.dark-div.footer-info
+javladies.com##.like-group
+javladies.com###mega-menu-item-12464 > [href^="https://new-real-dating12.com/"]
+javladies.com###mega-menu-item-1787 > .cactus-hasIcon
 
 ! https://www.searchenginejournal.com
 www.searchenginejournal.com##.sej-hello-bar 
 
 ! https://www.actvid.com
-||i.imgur.com/FRXqJCI.jpg$image 
-
-! https://czechvideo.org
-czechvideo.org##.copyright 
-
-! https://www.youtube.com
-||www.youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTlpWbFUyY2sxdlpHeEhlSFpLWW5ONlEyTnNSMGQzRWdzNFVuaHdUVTh6TVMxVE5Cb1Q2cWpkdVFFTkNnczRVbmh3VFU4ek1TMVROQ0FCQAFyAggEeAE%253D$subdocument
-www.youtube.com###chat 
-youtube.com##ytd-rich-section-renderer:has(#title:has-text(/^COVID-19 news$/))
-
-! https://www.actvid.com
+||i.imgur.com/FRXqJCI.jpg$image
 www.actvid.com##.mb-3.alert
 www.actvid.com###footer
 www.actvid.com##.modal-content 
+www.actvid.com##.btn-login.btn-on-header.btn-sm.btn
+www.actvid.com###pc-fav
+www.actvid.com##.text-center.server-notice
+www.actvid.com###block-rating > .clearfix
+www.actvid.com##.float-left.btn-sm.btn-light.btn
+www.actvid.com##.float-right.btn-sm.btn-light.btn
 
 ! https://real-123movies.best
+||real-123movies.best/dist/image/header/login.jpg$image
+real-123movies.best##._hIWqBErhjP
+real-123movies.best##._OAKUXllBJi > a
+real-123movies.best##._OAKUXllBJi
+real-123movies.best##._RXmNfLqANw._fPblggDWKp
+real-123movies.best##._BaixprSzmc
+||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
+||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
+||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
+||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
+||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
+||real-123movies.best/dist/image/scrollBtnTop.png$image
+||real-123movies.best/addons/$image
+||real-123movies.best/dist/image/scrollBtnTop.png$image
+real-123movies.best###_UpnbUdlTLl > [href="/user/profile/premium-membership"]
+real-123movies.best###_UpnbUdlTLl
+real-123movies.best###_tHQvwezUFt > ._PgMEjEjYNc
+real-123movies.best##._ovwVSuBwKU > div
+real-123movies.best##.hhotnews._LomZDsHTME
+real-123movies.best##._vDtzguqMeJ
+real-123movies.best##._FbQADRKPEN
+real-123movies.best##.sadhjasdjkASDd
 ||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
 ||real-123movies.best/addons/sdahsdahydfs7asds.gif$image 
 
 ! https://www.sxyprn.net
 www.sxyprn.net##.sharing_toolbox 
-
-! https://noodlemagazine.com
-noodlemagazine.com##.sharing 
-
-! https://pornzog.com
-pornzog.com##.video-ntv > .no-margin.block-title > .title-line
-||cftn.pornhits.com/media/tn/70405_1.jpg$image
-pornzog.com##.video-ntv-list
-pornzog.com##.adv-block-container > .wrapper > .no-margin.block-title
-pornzog.com##.adv-block-container 
-
-! https://milfnut.com
-milfnut.com##.site-footer 
-
-! https://www.playvids.com
-www.playvids.com##.card-promotion.card-deck
-
-! https://www.erome.com
-www.erome.com##.free-space 
-
-! https://daftsex.com
-daftsex.com###addthis_sharing_toolbox
-||daftsex.com/img/twitter.png$image
-||daftsex.com/img/twitter.png$image
-
-! https://start.me
-start.me##.info-message
-start.me##.page-footer__container
-
-! https://www.trendyporn.com
-www.trendyporn.com##.container > .pull-left
-www.trendyporn.com##.footer
-
-! https://czechvideo.org
-||www.xxxc2c.org/in/?track=default&tour=x1Rd&campaign=T0owj&c=4&p=0&gender=x&tag=teen&disable_sound=True$subdocument
-||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=brunette$subdocument
-||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
-czechvideo.org##.share42init
-||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
-||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=couple$subdocument
-
-! https://www.playvids.com
-www.playvids.com##.col-lg-6.col-xl-4
-
-! https://start.me
-start.me##.widget-page__banner.special
-start.me##.page-footer
-
-! https://spankbang.com
-spankbang.com##.lv_cm_cl_mx_why
-
-! https://www.linkedin.com
-www.linkedin.com##.align-items-center.display-flex.jobs-details-top-card--left-offset
-www.linkedin.com##.premium-upsell-link--extra-long.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state.app-aware-link
-
-! https://superuser.com
-superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-superuser.com##.js-dismissable-hero.ps-relative.sm\:pb24.sm\:pt24.fc-black-200.bg-black-750.py24
-
-! https://1337x.to
-1337x.to##.top-bar
-
-! https://www.pornwhite.com
-www.pornwhite.com##li.drop:nth-of-type(4)
-www.pornwhite.com##li:nth-of-type(8)
-www.pornwhite.com##li:nth-of-type(7)
-www.pornwhite.com##li:nth-of-type(6)
-www.pornwhite.com##.adv-aside
-www.pornwhite.com###ac_block
-www.pornwhite.com##.spot > [href="https://www.pornwhite.com/signup.php"]
-www.pornwhite.com##.long.video-options
-www.pornwhite.com##.container > .heading
-www.pornwhite.com##.bottom-banners
-
-! https://www.sxyprn.net
 www.sxyprn.net##.comment_ta_wrap
 www.sxyprn.net##.account_bar > .transition.acc_char
 www.sxyprn.net##.account_bar
 www.sxyprn.net##.comment_user_photo_main > span
 www.sxyprn.net##.cont_support
 www.sxyprn.net##.cont_abuse
+
 
 ! https://www.porntrex.com
 www.porntrex.com##li.hidden-sm > .hidden-sm
@@ -128,25 +102,6 @@ www.porntrex.com##.navbar-right.navbar-nav.nav .orientation-section > .dropdown 
 www.porntrex.com##.copyright-txt-block
 www.porntrex.com##.video-info > .tab-content
 
-! https://javladies.com
-javladies.com###text-5 > .widget-inner
-javladies.com###text-12 > .widget-inner
-javladies.com##.cactus-sidebar.footer-sidebar
-javladies.com##.dark-div.footer-info
-javladies.com##.like-group
-javladies.com###mega-menu-item-12464 > [href^="https://new-real-dating12.com/"]
-javladies.com###mega-menu-item-1787 > .cactus-hasIcon
-
-! https://xjavsub.com
-xjavsub.com##.site-info
-
-! https://javsub.co
-javsub.co##[href="https://javsub.co/dmca/"]
-javsub.co##.site-footer
-javsub.co##.happy-footer
-javsub.co##.video-share
-javsub.co##.video-actions
-javsub.co##.blue-colorscheme.wprc-container
 
 ! https://www.erome.com
 www.erome.com##div.sp:nth-of-type(1)
@@ -180,61 +135,162 @@ pornvid69.com##.hero
 pornvid69.com##.share.tab-link
 pornvid69.com##.video-comments
 pornvid69.com##div.video-wrapper:nth-of-type(3)
+pornvid69.com##a.ref-links
+pornvid69.com##.simplefavorite-button
 
-! https://www.actvid.com
-www.actvid.com##.btn-login.btn-on-header.btn-sm.btn
-www.actvid.com###pc-fav
-www.actvid.com##.text-center.server-notice
-www.actvid.com###block-rating > .clearfix
-www.actvid.com##.float-left.btn-sm.btn-light.btn
-www.actvid.com##.float-right.btn-sm.btn-light.btn
+! https://lookmovie.io
+lookmovie.io##.rp-component-wrapper
+lookmovie.io##.plr-help-stripe
+lookmovie.io##.menu-right.flex-child-menu.navbar-nav.nav
+lookmovie.io##.ht-footer
+lookmovie.io##.loginLink.user-prem-mobile
+lookmovie.io##.openform.overlay
 
-! https://real-123movies.best
-||real-123movies.best/dist/image/header/login.jpg$image
-real-123movies.best##._hIWqBErhjP
-real-123movies.best##._OAKUXllBJi > a
-real-123movies.best##._OAKUXllBJi
-real-123movies.best##._RXmNfLqANw._fPblggDWKp
-real-123movies.best##._BaixprSzmc
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/dist/image/scrollBtnTop.png$image
-||real-123movies.best/addons/$image
-||real-123movies.best/dist/image/scrollBtnTop.png$image
-real-123movies.best###_UpnbUdlTLl > [href="/user/profile/premium-membership"]
-real-123movies.best###_UpnbUdlTLl
-real-123movies.best###_tHQvwezUFt > ._PgMEjEjYNc
-real-123movies.best##._ovwVSuBwKU > div
-real-123movies.best##.hhotnews._LomZDsHTME
-real-123movies.best##._vDtzguqMeJ
-real-123movies.best##._FbQADRKPEN
-real-123movies.best##.sadhjasdjkASDd
+! https://www.reddit.com
+www.reddit.com###t3_l4jt55 > .Post__link
+www.reddit.com###t3_l4jt55
+www.reddit.com###t3_kxlyfr
+reddit.com##div[data-survey=true]
+old.reddit.com##.premium-banner-outer
+old.reddit.com##.listingsignupbar.infobar
 
-! https://gogoanime.ai
-||gogoanime.ai/img/bg/vien_footer.png$image
-gogoanime.ai##footer
-gogoanime.ai##.notice-400
-gogoanime.ai##.anime_video_body_cate > .anime_video_note_watch
-gogoanime.ai##.favorites
-gogoanime.ai##.report-ajax
-gogoanime.ai##.list_dowload > div
-gogoanime.ai##.menu_top > ul > .user
+! mailtrack.io
+||mailtrack.io^
 
-! https://www5.gowatchseries.bz
-www5.gowatchseries.bz##.socil_pluin > ul
-www5.gowatchseries.bz##.footer
-www5.gowatchseries.bz##.notice
-www5.gowatchseries.bz##.repo.left
-www5.gowatchseries.bz##.tweet
-www5.gowatchseries.bz##.click_comment
-www5.gowatchseries.bz##.favorites
-www5.gowatchseries.bz##.comment
-www5.gowatchseries.bz##div.left:nth-of-type(5)
-www5.gowatchseries.bz##.disqus-comment-count.specialButton
-www5.gowatchseries.bz###scroll-top-arrow
+! Purge all UTM tracker
+utm_$queryprune=/^utm_/
+
+! https://hanime.tv
+hanime.tv##+js(set, Cookies.get, trueFunc)
+hanime.tv###add_to_playlist_btn
+hanime.tv##.user_comments__post
+hanime.tv##.site-description
+hanime.tv##.user-options
+hanime.tv##div.nav-drawer-list.list:nth-of-type(5)
+hanime.tv##div.nav-drawer-list.list:nth-of-type(4)
+hanime.tv##div.nav-drawer-list.list:nth-of-type(3)
+hanime.tv##.inter
+hanime.tv##.landing__content > div > .active.mobile.htvad.mb-5
+hanime.tv##.landing__content > .active.mobile.htvad.mb-5
+hanime.tv##.column.flex.action-bar.native_0.mobile.htvnad
+hanime.tv##.mt-2.column.flex.action-bar.native_1.mobile.htvnad1
+hanime.tv##.active.mobile.htvad.mt-5.mb-5
+hanime.tv##.footer
+
+
+! https://muchohentai.com
+muchohentai.com###header-actions
+muchohentai.com###custom_html-11
+muchohentai.com###custom_html-7
+muchohentai.com###footer
+muchohentai.com###text-35
+muchohentai.com##.masonry-brick.VisitorMaps_visitor_maps_widget.widget
+muchohentai.com###text-30
+muchohentai.com###text-36
+muchohentai.com##.menu-item-145392.menu-item-object-page.menu-item-type-post_type.menu-item
+muchohentai.com##.menu-item-131183.menu-item-object-custom.menu-item-type-custom.menu-item
+muchohentai.com##.menu-item-130244.menu-item-object-custom.menu-item-type-custom.menu-item
+muchohentai.com##.menu-item-131834.menu-item-object-custom.menu-item-type-custom.menu-item
+muchohentai.com##.entry-actions
+muchohentai.com##.sd-sharing-enabled.sharedaddy
+muchohentai.com##.saic-no-login.saic-clearfix.saic-wrap-form
+muchohentai.com###main > .cf.wrap > .masonry
+muchohentai.com###__eq2281___
+muchohentai.com###__eq2283___
+muchohentai.com##[src="https://cupmedia.fun/wp-content/uploads/2020/12/15.png"]
+
+! https://hentaihaven.xxx
+hentaihaven.xxx##.with-border.c-sub-header-nav
+hentaihaven.xxx##.pt-2
+hentaihaven.xxx##div.vraven_expand:nth-of-type(3)
+hentaihaven.xxx##.manga-action
+hentaihaven.xxx###disqus_thread
+hentaihaven.xxx##.main-col-inner > .vraven_read.font-heading.style-2.c-blog__heading
+hentaihaven.xxx##.bottom.player_logic_opt_c
+
+! https://hentaiworld.tv
+hentaiworld.tv###prime_nav > .menu-item-9052.menu-item-object-custom.menu-item-type-custom.menu-item
+hentaiworld.tv###prime_nav > .menu-item-6932.menu-item-object-page.menu-item-type-post_type.menu-item
+hentaiworld.tv###prime_nav > li > [href="https://theporndude.com/"]
+hentaiworld.tv##.lp-blocks-rows-1.lp-blocks1.lp-blocks
+hentaiworld.tv##.footer-text-container
+hentaiworld.tv###disqus_thread
+hentaiworld.tv##.article-inner > p
+hentaiworld.tv##.support-frame
+hentaiworld.tv###mobile-nav > li > [href="https://theporndude.com/"]
+hentaiworld.tv###mobile-nav > .menu-item-9052.menu-item-object-custom.menu-item-type-custom.menu-item
+hentaiworld.tv###mobile-nav > .menu-item-6932.menu-item-object-page.menu-item-type-post_type.menu-item
+
+! https://hentaiyes.com
+hentaiyes.com##.show-for-large.topBar
+hentaiyes.com##.social-share
+
+! https://hentaihaven.co
+hentaihaven.co###sidebar > .clearfix
+hentaihaven.co##.menu-footer
+hentaihaven.co###disqus_thread
+hentaihaven.co##.navigate-trough-posts
+
+! https://anon-v.com
+anon-v.com##.top-links
+anon-v.com##.drop.highlight
+anon-v.com##li:nth-of-type(7)
+anon-v.com##.footer
+anon-v.com##.btn-favourites
+anon-v.com##li:nth-of-type(3)
+anon-v.com##li:nth-of-type(4)
+anon-v.com##li:nth-of-type(5)
+anon-v.com##li:nth-of-type(2)
+
+! https://noodlemagazine.com
+noodlemagazine.com##.sharing 
+
+! https://pornzog.com
+pornzog.com##.video-ntv > .no-margin.block-title > .title-line
+||cftn.pornhits.com/media/tn/70405_1.jpg$image
+pornzog.com##.video-ntv-list
+pornzog.com##.adv-block-container > .wrapper > .no-margin.block-title
+pornzog.com##.adv-block-container 
+
+! https://milfnut.com
+milfnut.com##.site-footer 
+
+! https://www.playvids.com
+www.playvids.com##.card-promotion.card-deck
+
+! https://www.erome.com
+www.erome.com##.free-space 
+
+! https://daftsex.com
+daftsex.com###addthis_sharing_toolbox
+||daftsex.com/img/twitter.png$image
+||daftsex.com/img/twitter.png$image
+
+! https://www.trendyporn.com
+www.trendyporn.com##.container > .pull-left
+www.trendyporn.com##.footer
+
+! https://www.playvids.com
+www.playvids.com##.col-lg-6.col-xl-4
+
+! https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+superuser.com##.js-dismissable-hero.ps-relative.sm\:pb24.sm\:pt24.fc-black-200.bg-black-750.py24
+
+! https://1337x.to
+1337x.to##.top-bar
+
+! https://www.pornwhite.com
+www.pornwhite.com##li.drop:nth-of-type(4)
+www.pornwhite.com##li:nth-of-type(8)
+www.pornwhite.com##li:nth-of-type(7)
+www.pornwhite.com##li:nth-of-type(6)
+www.pornwhite.com##.adv-aside
+www.pornwhite.com###ac_block
+www.pornwhite.com##.spot > [href="https://www.pornwhite.com/signup.php"]
+www.pornwhite.com##.long.video-options
+www.pornwhite.com##.container > .heading
+www.pornwhite.com##.bottom-banners
 
 ! https://bestzzporno.com
 bestzzporno.com##.clearfix.footer
@@ -300,87 +356,8 @@ porndish.org##.site-footer
 porndish.org##.show.button
 porndish.org##.main-navigation
 
-! https://anon-v.com
-anon-v.com##.top-links
-anon-v.com##.drop.highlight
-anon-v.com##li:nth-of-type(7)
-anon-v.com##.footer
-anon-v.com##.btn-favourites
-anon-v.com##li:nth-of-type(3)
-anon-v.com##li:nth-of-type(4)
-anon-v.com##li:nth-of-type(5)
-anon-v.com##li:nth-of-type(2)
-
-! https://hanime.tv
-hanime.tv###add_to_playlist_btn
-hanime.tv##.user_comments__post
-hanime.tv##.site-description
-hanime.tv##.user-options
-hanime.tv##div.nav-drawer-list.list:nth-of-type(5)
-hanime.tv##div.nav-drawer-list.list:nth-of-type(4)
-hanime.tv##div.nav-drawer-list.list:nth-of-type(3)
-hanime.tv##.inter
-hanime.tv##.landing__content > div > .active.mobile.htvad.mb-5
-hanime.tv##.landing__content > .active.mobile.htvad.mb-5
-hanime.tv##.column.flex.action-bar.native_0.mobile.htvnad
-hanime.tv##.mt-2.column.flex.action-bar.native_1.mobile.htvnad1
-hanime.tv##.active.mobile.htvad.mt-5.mb-5
-hanime.tv##.footer
-
-! https://muchohentai.com
-muchohentai.com###header-actions
-muchohentai.com###custom_html-11
-muchohentai.com###custom_html-7
-muchohentai.com###footer
-muchohentai.com###text-35
-muchohentai.com##.masonry-brick.VisitorMaps_visitor_maps_widget.widget
-muchohentai.com###text-30
-muchohentai.com###text-36
-muchohentai.com##.menu-item-145392.menu-item-object-page.menu-item-type-post_type.menu-item
-muchohentai.com##.menu-item-131183.menu-item-object-custom.menu-item-type-custom.menu-item
-muchohentai.com##.menu-item-130244.menu-item-object-custom.menu-item-type-custom.menu-item
-muchohentai.com##.menu-item-131834.menu-item-object-custom.menu-item-type-custom.menu-item
-muchohentai.com##.entry-actions
-muchohentai.com##.sd-sharing-enabled.sharedaddy
-muchohentai.com##.saic-no-login.saic-clearfix.saic-wrap-form
-muchohentai.com###main > .cf.wrap > .masonry
-muchohentai.com###__eq2281___
-muchohentai.com###__eq2283___
-muchohentai.com##[src="https://cupmedia.fun/wp-content/uploads/2020/12/15.png"]
-
-! https://hentaihaven.xxx
-hentaihaven.xxx##.with-border.c-sub-header-nav
-hentaihaven.xxx##.pt-2
-hentaihaven.xxx##div.vraven_expand:nth-of-type(3)
-hentaihaven.xxx##.manga-action
-hentaihaven.xxx###disqus_thread
-hentaihaven.xxx##.main-col-inner > .vraven_read.font-heading.style-2.c-blog__heading
-hentaihaven.xxx##.bottom.player_logic_opt_c
-
-! https://hentaiworld.tv
-hentaiworld.tv###prime_nav > .menu-item-9052.menu-item-object-custom.menu-item-type-custom.menu-item
-hentaiworld.tv###prime_nav > .menu-item-6932.menu-item-object-page.menu-item-type-post_type.menu-item
-hentaiworld.tv###prime_nav > li > [href="https://theporndude.com/"]
-hentaiworld.tv##.lp-blocks-rows-1.lp-blocks1.lp-blocks
-hentaiworld.tv##.footer-text-container
-hentaiworld.tv###disqus_thread
-hentaiworld.tv##.article-inner > p
-hentaiworld.tv##.support-frame
-hentaiworld.tv###mobile-nav > li > [href="https://theporndude.com/"]
-hentaiworld.tv###mobile-nav > .menu-item-9052.menu-item-object-custom.menu-item-type-custom.menu-item
-hentaiworld.tv###mobile-nav > .menu-item-6932.menu-item-object-page.menu-item-type-post_type.menu-item
-
-! https://hentaiyes.com
-hentaiyes.com##.show-for-large.topBar
-hentaiyes.com##.social-share
-
-! https://hentaihaven.co
-hentaihaven.co###sidebar > .clearfix
-hentaihaven.co##.menu-footer
-hentaihaven.co###disqus_thread
-hentaihaven.co##.navigate-trough-posts
-
 ! https://spankbang.com
+spankbang.com##.lv_cm_cl_mx_why
 spankbang.com##.auth.bt_signin
 spankbang.com##.auth.bt_signup
 spankbang.com##.ls > [href="#"]
@@ -399,53 +376,6 @@ spankbang.com##.dl
 spankbang.com##.fv
 spankbang.com##.user > a[href="#"]
 spankbang.com##[href="https://deliver.ptgncdn.com/zsrmNJZxOqnxefBDp5QJWNislRdnR0X6H_9LU8RGUazIPP2MzgDnWBIuGIz1_FAi_N19nFqyk"]
-
-! https://ca.indeed.com
-ca.indeed.com###auxCol
-
-! https://linkedin.com
-www.linkedin.com##.feed-shared-update-v2:has( > div > div.feed-shared-actor > a.feed-shared-actor__container-link > div.feed-shared-actor__meta > span.feed-shared-actor__sub-description:has-text(Promoted))
-www.linkedin.com##.ember-view.feed-shared-feed-discovery-grid.feed-shared-update-v2__content
-
-! https://hanime.tv
-hanime.tv##+js(set, Cookies.get, trueFunc)
-
-! https://www.youtube.com
-www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Learn about vaccine progress from Health Canada)
-www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
-
-! https://www.linkedin.com
-www.linkedin.com##.artdeco-toasts_toasts
-www.linkedin.com###ember327
-www.linkedin.com##.jobs-list-feedback
-
-! https://ca.indeed.com
-ca.indeed.com##.icl-Card--hasBorder.icl-Card
-
-! https://glassdoor.com
-||glassdoor.com^*/gd-user-hardsell-overlay.
-
-! mailtrack.io
-||mailtrack.io^
-
-! Purge all UTM tracker
-utm_$queryprune=/^utm_/
-
-! https://old.reddit.com
-old.reddit.com##.premium-banner-outer
-old.reddit.com##.listingsignupbar.infobar
-
-! Reddit div
-reddit.com##div[data-survey=true]
-
-! https://www.reddit.com
-www.reddit.com###t3_l4jt55 > .Post__link
-www.reddit.com###t3_l4jt55
-www.reddit.com###t3_kxlyfr
-
-! https://lookmovie.io
-lookmovie.io##.openform.overlay
 
 ! https://fullporner.com
 fullporner.com##div.ad-inline-box.col-md-12
@@ -486,28 +416,8 @@ hitbdsm.com##.happy-header-mobile
 hitbdsm.com###video-share
 hitbdsm.com###sidebar > .widget_custom_html.widget.widget_text
 
-! https://www.linkedin.com
-www.linkedin.com##.full-width.feed-card:has-text(Promoted)
-
 ! https://streamtape.com
 streamtape.com##.navbar-nav
-
-! https://lookmovie.io
-lookmovie.io##.rp-component-wrapper
-lookmovie.io##.plr-help-stripe
-
-! https://pornvid69.com
-pornvid69.com##a.ref-links
-pornvid69.com##.simplefavorite-button
-
-
-! https://m.youtube.com
-m.youtube.com##ytm-clarification-renderer.item
-
-! https://lookmovie.io
-lookmovie.io##.menu-right.flex-child-menu.navbar-nav.nav
-lookmovie.io##.ht-footer
-lookmovie.io##.loginLink.user-prem-mobile
 
 ! https://www.xnxx.com
 www.xnxx.com##.mobile-hide.btn.bookmark-link
@@ -568,9 +478,61 @@ xhamster.com##.favorites-control
 xhamster.com##.video_info
 xhamster.com##footer
 
-! https://xjavsub.com
-xjavsub.com##.happy-inside-player
-xjavsub.com##.video-infos-right
-xjavsub.com##.right > strong
-xjavsub.com##.footer-menu-container
+! https://gogoanime.ai
+||gogoanime.ai/img/bg/vien_footer.png$image
+gogoanime.ai##footer
+gogoanime.ai##.notice-400
+gogoanime.ai##.anime_video_body_cate > .anime_video_note_watch
+gogoanime.ai##.favorites
+gogoanime.ai##.report-ajax
+gogoanime.ai##.list_dowload > div
+gogoanime.ai##.menu_top > ul > .user
+
+! https://www5.gowatchseries.bz
+www5.gowatchseries.bz##.socil_pluin > ul
+www5.gowatchseries.bz##.footer
+www5.gowatchseries.bz##.notice
+www5.gowatchseries.bz##.repo.left
+www5.gowatchseries.bz##.tweet
+www5.gowatchseries.bz##.click_comment
+www5.gowatchseries.bz##.favorites
+www5.gowatchseries.bz##.comment
+www5.gowatchseries.bz##div.left:nth-of-type(5)
+www5.gowatchseries.bz##.disqus-comment-count.specialButton
+www5.gowatchseries.bz###scroll-top-arrow
+
+! https://www.linkedin.com
+www.linkedin.com##.full-width.feed-card:has-text(Promoted)
+www.linkedin.com##.align-items-center.display-flex.jobs-details-top-card--left-offset
+www.linkedin.com##.premium-upsell-link--extra-long.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state.app-aware-link
+www.linkedin.com##.feed-shared-update-v2:has( > div > div.feed-shared-actor > a.feed-shared-actor__container-link > div.feed-shared-actor__meta > span.feed-shared-actor__sub-description:has-text(Promoted))
+www.linkedin.com##.ember-view.feed-shared-feed-discovery-grid.feed-shared-update-v2__content
+www.linkedin.com##.artdeco-toasts_toasts
+www.linkedin.com###ember327
+www.linkedin.com##.jobs-list-feedback
+
+! https://ca.indeed.com
+ca.indeed.com##.icl-Card--hasBorder.icl-Card
+ca.indeed.com###auxCol
+
+! https://glassdoor.com
+||glassdoor.com^*/gd-user-hardsell-overlay.
+
+! https://czechvideo.org
+czechvideo.org##.copyright 
+||www.xxxc2c.org/in/?track=default&tour=x1Rd&campaign=T0owj&c=4&p=0&gender=x&tag=teen&disable_sound=True$subdocument
+||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=brunette$subdocument
+||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
+czechvideo.org##.share42init
+||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
+||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=couple$subdocument
+
+! https://start.me
+start.me##.info-message
+start.me##.page-footer__container
+start.me##.widget-page__banner.special
+start.me##.page-footer
+
+! https://www.producthunt.com
+www.producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__2SyXA
 
