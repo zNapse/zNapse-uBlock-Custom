@@ -1,8 +1,8 @@
 [uBlock Origin v1.34]
-! Version:1.33.2
+! Version:1.34
 ! Title:
 ! Last modified:
-! Expires: 
+! Expires: 1 hours
 ! Homepage:
 !
 !【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】!
@@ -179,9 +179,17 @@ www.reddit.com###t3_kxlyfr
 reddit.com##div[data-survey=true]
 old.reddit.com##.premium-banner-outer
 old.reddit.com##.listingsignupbar.infobar
-www.reddit.com###ad_1
 www.reddit.com##.premium-banner-outer
-www.reddit.com###ad_4
+reddit.com###ad_1
+reddit.com###ad_2
+reddit.com###ad_3
+reddit.com###ad_4
+reddit.com###ad_5
+reddit.com###ad_6
+reddit.com###ad_7
+reddit.com###ad_8
+reddit.com###ad_9
+reddit.com###ad_10
 
 ! mailtrack.io
 ||mailtrack.io^
@@ -575,3 +583,4 @@ start.me##.page-footer
 
 ! https://www.producthunt.com
 www.producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__2SyXA
+
