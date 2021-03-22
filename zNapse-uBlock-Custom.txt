@@ -5,6 +5,31 @@
 ! Expires: 
 ! Homepage:
 !
+!【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】!
+
+! ------ 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 𝗧𝗲𝘀𝘁 ------ !
+
+! YouTube Consent Experimental
+youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
+youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
+youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##.opened
+youtube.com##ytd-popup-container
+youtube.com###consent-bump
+youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
+
+
+
+
+! ------ 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 𝗧𝗲𝘀𝘁 ------ !
+
+!【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】!
+
+
 ! https://www.youtube.com
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1) 
 ||www.youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTlpWbFUyY2sxdlpHeEhlSFpLWW5ONlEyTnNSMGQzRWdzNFVuaHdUVTh6TVMxVE5Cb1Q2cWpkdVFFTkNnczRVbmh3VFU4ek1TMVROQ0FCQAFyAggEeAE%253D$subdocument
@@ -14,6 +39,7 @@ www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Learn about vaccine progress from Health Canada)
 www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
 m.youtube.com##ytm-clarification-renderer.item
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 
 ! https://xjavsub.com
 xjavsub.com##.happy-inside-player
@@ -153,6 +179,9 @@ www.reddit.com###t3_kxlyfr
 reddit.com##div[data-survey=true]
 old.reddit.com##.premium-banner-outer
 old.reddit.com##.listingsignupbar.infobar
+www.reddit.com###ad_1
+www.reddit.com##.premium-banner-outer
+www.reddit.com###ad_4
 
 ! mailtrack.io
 ||mailtrack.io^
@@ -510,6 +539,10 @@ www.linkedin.com##.ember-view.feed-shared-feed-discovery-grid.feed-shared-update
 www.linkedin.com##.artdeco-toasts_toasts
 www.linkedin.com###ember327
 www.linkedin.com##.jobs-list-feedback
+linkedin.com###app-upsell-container
+linkedin.com##body,html:style(overflow:auto !important)
+www.linkedin.com##.capsule-without-wrapper.with-rating.capsule-upsell
+
 
 ! https://ca.indeed.com
 ca.indeed.com##.icl-Card--hasBorder.icl-Card
@@ -535,4 +568,5 @@ start.me##.page-footer
 
 ! https://www.producthunt.com
 www.producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__2SyXA
+
 
