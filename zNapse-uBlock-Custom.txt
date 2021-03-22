@@ -542,6 +542,7 @@ www.linkedin.com##.jobs-list-feedback
 linkedin.com###app-upsell-container
 linkedin.com##body,html:style(overflow:auto !important)
 www.linkedin.com##.capsule-without-wrapper.with-rating.capsule-upsell
+www.linkedin.com###account-center-notification
 
 
 ! https://ca.indeed.com
