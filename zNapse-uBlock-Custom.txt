@@ -1,4 +1,4 @@
-[uBlock Origin v1.33.2]
+[uBlock Origin v1.34]
 ! Version:1.33.2
 ! Title:
 ! Last modified:
@@ -543,7 +543,13 @@ linkedin.com###app-upsell-container
 linkedin.com##body,html:style(overflow:auto !important)
 www.linkedin.com##.capsule-without-wrapper.with-rating.capsule-upsell
 www.linkedin.com###account-center-notification
-
+www.linkedin.com###ember95
+www.linkedin.com##.right-rail > .ember-view.ad-banner-container
+www.linkedin.com##.left-rail-container.mn-left-rail__container.artdeco-card > .ember-view.ad-banner-container
+www.linkedin.com###ember1016 > .premium-upsell-link
+www.linkedin.com##.ember-view.artdeco-card.ad-banner-container
+www.linkedin.com###ember247 > .artdeco-card__actions
+www.linkedin.com##.scaffold-layout__ad
 
 ! https://ca.indeed.com
 ca.indeed.com##.icl-Card--hasBorder.icl-Card
@@ -569,5 +575,3 @@ start.me##.page-footer
 
 ! https://www.producthunt.com
 www.producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__2SyXA
-
-
