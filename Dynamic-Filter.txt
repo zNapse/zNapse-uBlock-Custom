@@ -1,11 +1,4 @@
-[uBlock Origin v1.33.2]
-! Version:1.33.2
-! Title:
-! Last modified:
-! Expires: 
-! Homepage:
-!
-
+no-csp-reports: * true
 no-large-media: behind-the-scene false
 * 1clickcdn.ru * block
 * addthis.com * block
@@ -109,6 +102,7 @@ messages.indeed.com indeed.com * noop
 messages.indeed.com messages.indeed.com * noop
 www.linkedin.com * 3p-frame block
 www.linkedin.com * 3p-script block
+www.linkedin.com akamaiedge.net * noop
 www.linkedin.com cedexis.com * block
 www.linkedin.com epsiloncdn.net * noop
 www.linkedin.com l-msedge.net * noop
