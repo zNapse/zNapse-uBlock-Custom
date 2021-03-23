@@ -24,9 +24,6 @@ behind-the-scene * 3p-frame noop
 behind-the-scene * 3p-script noop
 behind-the-scene * image noop
 behind-the-scene * inline-script noop
-www.facebook.com facebook.com * noop
-www.facebook.com www.facebook.com * noop
-www.facebook.com fbcdn.net * noop
 www.fuq.com * 3p-frame block
 www.fuq.com * 3p-script block
 www.fuq.com google-analytics.com * block
