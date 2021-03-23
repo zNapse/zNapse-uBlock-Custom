@@ -99,8 +99,9 @@ messages.indeed.com indeed.com * noop
 messages.indeed.com messages.indeed.com * noop
 www.linkedin.com * 3p-frame block
 www.linkedin.com * 3p-script block
+www.linkedin.com akamai.net * noop
 www.linkedin.com akamaiedge.net * noop
-www.linkedin.com cedexis.com * block
+www.linkedin.com cedexis.com * noop
 www.linkedin.com epsiloncdn.net * noop
 www.linkedin.com l-msedge.net * noop
 www.linkedin.com licdn.com * noop
