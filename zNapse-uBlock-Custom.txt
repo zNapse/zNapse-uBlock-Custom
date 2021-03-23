@@ -558,6 +558,7 @@ www.linkedin.com###ember1016 > .premium-upsell-link
 www.linkedin.com##.ember-view.artdeco-card.ad-banner-container
 www.linkedin.com###ember247 > .artdeco-card__actions
 www.linkedin.com##.scaffold-layout__ad
+www.linkedin.com###ember198 > .premium-upsell-link
 
 ! https://ca.indeed.com
 ca.indeed.com##.icl-Card--hasBorder.icl-Card
@@ -583,4 +584,7 @@ start.me##.page-footer
 
 ! https://www.producthunt.com
 www.producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__2SyXA
+
+! https://mail.protonmail.com
+mail.protonmail.com##.conversationPlaceholder
 
