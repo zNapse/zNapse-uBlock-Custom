@@ -114,6 +114,12 @@ www.sxyprn.net##.account_bar
 www.sxyprn.net##.comment_user_photo_main > span
 www.sxyprn.net##.cont_support
 www.sxyprn.net##.cont_abuse
+www.sxyprn.net##.transition.tm_watchlater
+www.sxyprn.net##.transition.notify_default.notify
+www.sxyprn.net##[href="/live"]
+www.sxyprn.net##.post_control > .transition.pes_wl
+www.sxyprn.net##.small_post_control.vid_playlist_blog.vid_playlist_post
+www.sxyprn.net##[href="http://pics.vc/popular"]
 
 
 ! https://www.porntrex.com
@@ -484,6 +490,11 @@ pornve.com##button:nth-of-type(3)
 pornve.com##button:nth-of-type(4)
 pornve.com##button:nth-of-type(2)
 
+! kink.com
+www.kink.com##.lg-header.info-header
+www.kink.com##.-container.container > .clear
+
+
 ! https://www.fuq.com
 www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(3)
 www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(2)
@@ -562,6 +573,7 @@ www.linkedin.com###ember198 > .premium-upsell-link
 www.linkedin.com##.overflow-hidden.artdeco-card.ad-banner-container
 www.linkedin.com##.feed-right-rail__sticky-container.right-rail-container > .ad-banner-container > .ad-banner
 www.linkedin.com###ember404 > .premium-upsell-link
+www.linkedin.com##.jobs-search-top-applicant-upsell-card
 
 ! https://ca.indeed.com
 ca.indeed.com##.icl-Card--hasBorder.icl-Card
@@ -590,6 +602,9 @@ www.producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__
 
 ! https://mail.protonmail.com
 mail.protonmail.com##.conversationPlaceholder
+
+! https://thispersondoesnotexist.com
+thispersondoesnotexist.com###description
 
 
 
