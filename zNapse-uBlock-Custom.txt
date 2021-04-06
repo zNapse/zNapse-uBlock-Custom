@@ -535,6 +535,7 @@ gogoanime.ai##.favorites
 gogoanime.ai##.report-ajax
 gogoanime.ai##.list_dowload > div
 gogoanime.ai##.menu_top > ul > .user
+www.yourupload.co##.jw-reset.jw-dock
 
 ! https://www5.gowatchseries.bz
 www5.gowatchseries.bz##.socil_pluin > ul
